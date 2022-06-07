@@ -1,0 +1,3 @@
+Item No.	PART NUMBER	revision	QTY	Description	Material	Finish	Treatment	Colour	Comments	SecondProcess	Third Process	Author	Approved	Asset	SW-Folder Name(Folder Name)	SW-File Name(File Name)	SW-Configuration Name(Configuration Name)	Distributor	mass	DrawnDate	OEM_Internet	OEM_Supplier	OEM_Data_Sheet	Qb_Code	QB_Catergory	Sheet Metal Thickness	Spare_Part	Supplier_Part_Number
+1	IgnoreOrEraseThisPart		1		Material <not specified>										C:\erase\	IgnoreOrEraseThisPart	Default		1058.0									
+1.1	  AWS-B-012938	1	1	FIBC MOBILE FRAME WELDMENT CUTLIST	MS - C350LO	NATURAL			CUTTING			HC	 		C:\AWS PDM\AWS\007000-014000\	AWS-B-012938	Default		1058.0	24/05/2022							-	

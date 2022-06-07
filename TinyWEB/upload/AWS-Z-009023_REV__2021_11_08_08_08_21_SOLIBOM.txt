@@ -1,0 +1,53 @@
+Item No.	PART NUMBER	revision	QTY	Description	Material	Finish	Treatment	Colour	Comments	SecondProcess	Third Process	Author	Approved	Asset	SW-Folder Name(Folder Name)	SW-File Name(File Name)	SW-Configuration Name(Configuration Name)	Distributor	mass	DrawnDate	OEM_Internet	OEM_Supplier	OEM_Data_Sheet	Qb_Code	QB_Catergory	Sheet Metal Thickness	Spare_Part	Supplier_Part_Number
+1	AWS-Z-009023		1	GUARD ASSEMBLY	AS PER BOM	NATURAL			PURCHASE	ASSEMBLY					C:\AWS PDM\AWS\007000-014000\	AWS-Z-009023	Default		0.0	10/05/2021							-	
+1.1	  OEM-F3SG-4RE1870P30	1	2	SAFETY LIGHT CURTAIN 1870MM	AS PER BOM 	NATURAL			PURCHASE			DMG	 		C:\AWS PDM\OEM\1046. Sensors\	OEM-F3SG-4RE1870P30	Default	OMRON	3.9	07/04/2020	http://www.omron.com.au/products/family/3403/		W:\Solidworks\Proprietry\3 QBooks Cat\OEM Data Sheets\1046_F3SG LIGHT CURTAIN.pdf	1046	Sensors		YES	F3SG-4RE1870P30
+1.2	  AWS-Z-010161		1	MCC AND PNEUMATIC SUPPLY ASSY	PER BOM	NATURAL			ASSEMBLY	ASSEMBLY		FQ			C:\AWS PDM\AWS\007000-014000\	AWS-Z-010161	Default		200.0	11/08/2021							-	
+1.2.1	    AWS-A-010926		1	J200684 CRYER MALT MCC	REFER DATA SHEET	NATURAL			PURCHASE			FQ			C:\AWS PDM\AWS\007000-014000\	AWS-A-010926	Default		200.0	20/10/2021							-	
+1.3	  AWS-Z-010256		1	SUPPLY MANIFOLD ASSY	PER BOM	NATURAL			ASSEMBLY			FQ			C:\AWS PDM\AWS\007000-014000\	AWS-Z-010256	Default		0.0	24/08/2021							-	
+1.3.1	    OEM-VP744-5DZ1-04-M-X555		1	DUAL RES PRE REL VALVE WITH SOFT START	PER DATASHEET	NATURAL			PURCHASE			FQ			C:\AWS PDM\OEM\1038. Pneumatics\	OEM-VP744-5DZ1-04-M-X555	Default	SMC	1429.175	24/08/2021			W:\Solidworks\Proprietry\3 QBooks Cat\OEM Data Sheets\VP744-5DZ1-04-M-X555.pdf	1038	Pneumatics		YES	VP744-5DZ1-04-M-X555
+1.3.2	    OEM-AN40-04	1	2	COMPACT RESIN TYPE/MALE THREAD	REFER DATA SHEET										C:\AWS PDM\OEM\1038. Pneumatics\	OEM-AN40-04	Default		0.1	10/07/2019	https://www.smcpneumatics.com/AN40-04.html	SMC	W:\Solidworks\Proprietry\3 QBooks Cat\OEM Data Sheets\1038_AN05 TO AN40.png	1038	Pneumatics		-	AN40-04
+1.3.3	    Nipple 0.5		1												T:\Project\Cryer Malt\J200684 Semi Auto Bagging Line\6. Pneumatics\MODELS TO  INCLUDE IN PDM\PN01\	Nipple 0.5	Default											
+1.3.4	    OEM-MA025015		1	COMPRESSION FITTING MALE ADAPTOR 25 X ½	PP	NATURAL			PURCHASE			DMG		False	C:\AWS PDM\OEM\1038. Pneumatics\	OEM-MA025015	Default	CONNECTA	0.1	24/08/2021	https://www.connecta.net.au/male-adaptor			1038	Pneumatics		YES	MA025015
+1.3.5	    OEM-AC40C-04CE3-R-B		1	FILTERS AND PRESSURE GAUGE COMBO	PER DATASHEET	NATURAL			PURCHASE			DMG			C:\AWS PDM\OEM\1038. Pneumatics\	OEM-AC40C-04CE3-R-B	Default	SMC	0.00	24/08/2021			W:\Solidworks\Proprietry\3 QBooks Cat\OEM Data Sheets\AC40C-04CE3-R-B.pdf	1038	Pneumatics		YES	AC40C-04CE3-R-B
+1.3.6	    OEM-KQ2H16-04NS	-	1	KQ2, ONE-TOUCH FITTING 1/2 TO 16.0MM	REFER DATA SHEET	NATURAL			PURCHASE			DMG			C:\AWS PDM\OEM\1038. Pneumatics\	OEM-KQ2H16-04NS	Default		0.0	03/06/2019	https://smcpartbuilder.com/product-search-results/KQ2H16-04NS	SMC		1038	Pneumatics		YES	KQ2H16-04NS
+1.4	  AWS-A-010942		1	J200684 PALLET LINE GUARD KIT	PER DATASHEET	NATURAL			PURCHASE			FQ			C:\AWS PDM\AWS\007000-014000\	AWS-A-010942	Default_speedpak		0.0	20/10/2021							-	
+1.4.1	    XXX-X-000624		1														Default											
+1.4.2	    Copy of pallet line guarding^AWS-A-010942		1														Default											
+1.4.3	    Copy of guard-doubledoorfinal^AWS-A-010942		1														Default											
+1.4.3.1	      Copy of Copy of Copy of P11-230^Copy of guard-doubledoorfinal_AWS-A-010942		1		Material <not specified>										C:\Users\francisco\AppData\Local\Temp\swx1268\VC~~\1455219005\	Copy of Copy of Copy of P11-230^Copy of guard-doubledoorfinal_AWS-A-010942	Default		0.0									
+1.4.3.2	      Copy of Copy of Copy of 322-220150^Copy of guard-doubledoorfinal_AWS-A-010942		2														Default											
+1.4.3.3	      Copy of Copy of Copy of D3K_1^Copy of guard-doubledoorfinal_AWS-A-010942		1																									
+1.4.3.4	      Copy of Copy of Copy of BOX^Copy of guard-doubledoorfinal_AWS-A-010942		1																									
+1.4.3.5	      Copy of Copy of Copy of W322-220150^Copy of guard-doubledoorfinal_AWS-A-010942		2														Default											
+1.4.3.6	      Copy (3) of Copy of Copy of P11-230^Copy of guard-doubledoorfinal_AWS-A-010942		3		Material <not specified>										C:\Users\francisco\AppData\Local\Temp\swx1268\VC~~\1455219005\	Copy (3) of Copy of Copy of P11-230^Copy of guard-doubledoorfinal_AWS-A-010942	Default		0.0									
+1.4.3.7	      Copy of P11-230^Copy of guard-doubledoorfinal_AWS-A-010942		25														Default											
+1.4.3.8	      Copy of W322-220050^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.9	      Copy of W322-220130^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.10	      Copy of 322-220150^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.11	      Copy of D3K^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.12	      Copy of W322-220150^Copy of guard-doubledoorfinal_AWS-A-010942		11														Default											
+1.4.3.13	      Copy of W322-220110^Copy of guard-doubledoorfinal_AWS-A-010942		2														Default											
+1.4.3.14	      Copy of W322-220100^Copy of guard-doubledoorfinal_AWS-A-010942		2														Default											
+1.4.3.15	      Copy of W322-220080^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.16	      Copy (2) of Copy of Copy of P11-230^Copy of guard-doubledoorfinal_AWS-A-010942		1		Material <not specified>										C:\Users\francisco\AppData\Local\Temp\swx1268\VC~~\1455219005\	Copy (2) of Copy of Copy of P11-230^Copy of guard-doubledoorfinal_AWS-A-010942	Default		0.0									
+1.4.3.17	      Copy of D3K_2^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.18	      Copy of W322-220060^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.19	      Copy of W322-220150_1^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.20	      Copy of W322-220130_1^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.21	      Copy of 322-220090^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.22	      Copy of W322-220150_2^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.23	      Assem2^Copy of guard-doubledoorfinal_AWS-A-010942		1														Default											
+1.4.3.24	      Assem3^Copy of guard-doubledoorfinal_AWS-A-010942		1		Material <not specified>										C:\Users\francisco\AppData\Local\Temp\swx1268\VC~~\1455219005\	Assem3^Copy of guard-doubledoorfinal_AWS-A-010942	Default		0.0									
+1.4.3.24.1	        Copy of Copy of W322-220150^Assem3_Copy of guard-doubledoorfinal_AWS-A-010942		2		Material <not specified>										C:\Users\francisco\AppData\Local\Temp\swx1268\VC~~\1095808872\	Copy of Copy of W322-220150^Assem3_Copy of guard-doubledoorfinal_AWS-A-010942	Default		0.0									
+1.4.3.24.2	        Copy of Copy of P11-230^Assem3_Copy of guard-doubledoorfinal_AWS-A-010942		3		Material <not specified>										C:\Users\francisco\AppData\Local\Temp\swx1268\VC~~\1095808872\	Copy of Copy of P11-230^Assem3_Copy of guard-doubledoorfinal_AWS-A-010942	Default		0.0									
+1.5	  OEM-F3SG-4RE1230P30		1	SAFETY LIGHT CURTAIN 1230MM		NATURAL			PURCHASE			DMG			C:\AWS PDM\oem\1046. sensors\	OEM-F3SG-4RE1230P30	Default	OMRON		14/05/2021	http://www.omron.com.au/products/family/3403/		W:\Solidworks\Proprietry\3 QBooks Cat\OEM Data Sheets\1046_F3SG LIGHT CURTAIN.pdf	1046	Sensors		YES	F3SG-4RE1230P30
+1.6	  AWS-Z-010955		1	PRINTER WITH STAND	PER BOM	NATURAL			ASSEMBLY						C:\AWS PDM\AWS\007000-014000\	AWS-Z-010955	Default		32.7	22/10/2021							-	
+1.6.1	    AWS-B-010954		1	PAINTED PRINTER STAND	PER BOM	POWDERCOAT		PEARL WHITE - GLOSS: 236,242,241	PAINT			FQ			C:\AWS PDM\AWS\007000-014000\	AWS-B-010954	Default		5.7	22/10/2021							-	
+1.6.1.1	      AWS-B-010953		1	PRINTER STAND	PER BOM	NATURAL			WELDING			FQ			C:\AWS PDM\AWS\007000-014000\	AWS-B-010953	Default		5.7	22/10/2021							-	
+1.6.1.1.1	        AWS-A-010951		1	PRINTER STAND BASE PLATE	MS - GR250	NATURAL			LASERCUT			FQ			C:\AWS PDM\AWS\007000-014000\	AWS-A-010951	Default		0.2	22/10/2021						4	-	
+1.6.1.1.1.1	          		1	Sheet	MS - GR250												Default		0.2							4		
+1.6.1.1.2	        AWS-A-010952		1	PRINTER STAND POLE	MS - GR250	NATURAL			CUTTING			FQ			C:\AWS PDM\AWS\007000-014000\	AWS-A-010952	Default<As Machined>		3.4	22/10/2021							-	
+1.6.1.1.2.1	          		1	50x50x3 SHS	AS 1163-C350LO												Default<As Machined>		3.4									
+1.6.1.1.3	        AWS-A-010914		1	PRINTER TRAY	MS - GR250	NATURAL			LASERCUT	FOLDING	WELDING	FQ			C:\AWS PDM\AWS\007000-014000\	AWS-A-010914	Default		2.1	19/10/2021						3	-	
+1.6.1.1.3.1	          		1	Sheet	MS - GR250												Default		2.1							3		
+1.6.2	    OEM-UX-E160W		1	INKJET PRINTER	REFER DATA SHEET	NATURAL			PURCHASE			FQ			C:\AWS PDM\OEM\1034. Misc Component\	OEM-UX-E160W	Default	VISYTECH	27.0	09/09/2021		HITACHI	W:\Solidworks\Proprietry\3 QBooks Cat\OEM Data Sheets\Hitachi UX EU.pdf	1034	Misc Component		YES	UX-E160W

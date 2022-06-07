@@ -1,0 +1,23 @@
+{% extends 'layout.html' %}
+
+
+
+{% block header %}
+  <h1>{% block title %}New Post{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  
+  <form method="post" cols="120">
+      <br>
+      <label for="title">Title</label>
+      <input name="title" cols="50" id="title" value="{{ request.form['title'] }}" required>
+      <br>
+      <label for="body">Body</label>
+      <textarea class="form-control" name="body" id="body" rows="20" cols="1">{{ request.form['body'] }}</textarea>
+      <br>
+      <input type="submit" value="Save">
+  </form>
+
+
+{% endblock %}

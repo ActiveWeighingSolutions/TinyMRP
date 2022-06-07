@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<body>
+    <form action="/part/excelcompile" method="POST"
+          enctype="multipart/form-data">
+        <input type="file" name="file" />
+        <input type="checkbox" id="include_children" name="include_children" value="include">
+        <label for="include_children"> Include subcomponents</label><br>
+        <input type="submit" />
+    </form>
+</body>
+
+
+                    {% if upload  %}
+
+<p class="lead">Upload successful</p>
+<a href="/part" class="btn btn-primary">Back to database</a>
+                    {% endif %}
+
+
+  {% endblock %}

@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}MENU{% endblock %}</h1>
+  {% if g.user %}
+  
+
+
+  {% endif %}
+{% endblock %}
+
+
+{% block content %}
+
+      <article class="post">
+     
+      <div>
+       <a class="action" href="{{ url_for('part.index') }}">Parts database</a>
+      </div>
+     
+     <div>
+      <a class="action" href="{{ url_for('blog.index') }}">Blog</a>
+    </div>
+      
+
+    </article>
+
+{% endblock %}
